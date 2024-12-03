@@ -32,7 +32,13 @@ With the Data Loaded on Microsoft PowerBi after cleaning from Microsoft Excel. I
 
 ## 6.0 - Insights
 6.1 -*We can see some important Key Performance Indicators which was represented on a card visual to show it. Some of which are the total quantity which amounted to 114k, Total Sales which amounted to $76.02M, Total No of Orders which amounted to 113.67k, Total No of Category is 9, No of States shipped to were 46 States and also the country in focus was India.*
+
 6.2 -*We can see the top 5 selling states to be Maharashtra, karnataka, Telangana, Uttar Pradesh and Tamil Nadu.*
+
 6.3 -*We also can see the trend analysis of revenue across month which shows there was a spike in April where you have sales of $28m and also June being the last month with $23M.*
+
 6.4 -*We can see that the top 4 selling catgeory are Set, Kurta, Western Dress and Top.*
+
 6.5 -*We can see that the top 5 selling sizes and top 5 size by Quantity sold was led by both M.*
+
+6.6 -*We can see the shipping status also that the amount shipped was $50M, compared to the ones delivered to the buyer which is $18M.*
