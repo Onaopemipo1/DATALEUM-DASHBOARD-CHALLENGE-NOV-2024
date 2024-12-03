@@ -30,6 +30,12 @@ Using Microsoft Excel, i was able to check the data for any errors and missing v
 ## 5.0 - Data Visualization
 With the Data Loaded on Microsoft PowerBi after cleaning from Microsoft Excel. I proceed to extract some key insights which would help me in creating a well stocked dashboard. 
 
+![](Amazon1.png)
+
+![](Amazon2.png)
+
+![](Amazon3.png)
+
 ## 6.0 - Insights
 6.1 -*We can see some important Key Performance Indicators which was represented on a card visual to show it. Some of which are the total quantity which amounted to 114k, Total Sales which amounted to $76.02M, Total No of Orders which amounted to 113.67k, Total No of Category is 9, No of States shipped to were 46 States and also the country in focus was India.*
 
